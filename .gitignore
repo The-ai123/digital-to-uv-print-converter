@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.uvproject
+output/
+.uv-cache/
+
+# Original chart photos and full-size demonstration exports stay local.
+/local-reference/
+/Examples/full-resolution/
+/build/
+/dist/*
+!/dist/Digital to UV Print Converter 0.2.0.exe

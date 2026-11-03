@@ -1,0 +1,1007 @@
+{
+  "version": 1,
+  "name": "Measured printer / ink / substrate / lamp profile",
+  "conditions": "Record UV wavelength, exposure, camera profile, ink and substrate. Replace every null with a measured sRGB triple.",
+  "pairs": [
+    {
+      "digital": [
+        0,
+        0,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        0,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        0,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        0,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        0,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        64,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        64,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        64,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        64,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        64,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        128,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        128,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        128,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        128,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        128,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        192,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        192,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        192,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        192,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        192,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        255,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        255,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        255,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        255,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        0,
+        255,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        0,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        0,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        0,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        0,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        0,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        64,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        64,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        64,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        64,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        64,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        128,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        128,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        128,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        128,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        128,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        192,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        192,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        192,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        192,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        192,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        255,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        255,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        255,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        255,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        64,
+        255,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        0,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        0,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        0,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        0,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        0,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        64,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        64,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        64,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        64,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        64,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        128,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        128,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        128,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        128,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        128,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        192,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        192,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        192,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        192,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        192,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        255,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        255,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        255,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        255,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        128,
+        255,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        0,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        0,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        0,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        0,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        0,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        64,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        64,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        64,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        64,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        64,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        128,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        128,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        128,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        128,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        128,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        192,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        192,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        192,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        192,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        192,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        255,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        255,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        255,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        255,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        192,
+        255,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        0,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        0,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        0,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        0,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        0,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        64,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        64,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        64,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        64,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        64,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        128,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        128,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        128,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        128,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        128,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        192,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        192,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        192,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        192,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        192,
+        255
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        255,
+        0
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        255,
+        64
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        255,
+        128
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        255,
+        192
+      ],
+      "blacklight": null
+    },
+    {
+      "digital": [
+        255,
+        255,
+        255
+      ],
+      "blacklight": null
+    }
+  ]
+}

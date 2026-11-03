@@ -1,0 +1,2 @@
+-r requirements.txt
+pyopencl>=2026.1,<2027
